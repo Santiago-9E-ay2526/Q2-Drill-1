@@ -1,0 +1,23 @@
+
+.hero-text {
+     font-family: monospace;
+     color: rgb(174, 255, 252);
+     text-align: center;
+     background-image: url(texture2.jpg);
+}
+
+.container {
+     border: 3px solid rgb(17, 79, 76);
+     background-color: white;
+     text-align: center;
+     border-radius: 20px;
+}
+
+h4 {
+     padding: 10px;
+     text-align: center;
+}
+
+p {
+     text-align: center;
+}
